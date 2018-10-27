@@ -3,8 +3,8 @@ description: CompSoc is Scotland's best and largest tech society. We do talks, w
 sass:
    sourcemap: true
 
-url: "https://jmaio.github.io/website2017/"
-baseurl: "" # does not include hostname
+url: "https://jmaio.github.io/"
+baseurl: "/website2017" # does not include hostname
 
 include: [".well-known"]
 
