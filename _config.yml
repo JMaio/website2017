@@ -6,6 +6,8 @@ sass:
 url: "https://jmaio.github.io/website2017/"
 baseurl: "" # does not include hostname
 
+include: [".well-known"]
+
 plugins_dir: [jekyll-paginate]
 paginate: 5
 paginate_path: "/blog/:num/"
